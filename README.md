@@ -15,7 +15,7 @@ Built as part of a summer internship project on customer churn prediction.
 ## 🚀 Live Demo
 
 > Add your deployed Streamlit Cloud link here once deployed, e.g.
-> **[https://customer-churn-prediction.streamlit.app](https://streamlit.io/cloud)**
+> **https://customer-churn-with-explaianble-ai-e8fjzn8r4xruwm82hqbxuw.streamlit.app/**
 
 To deploy it yourself for free: push this repo to GitHub → go to [share.streamlit.io](https://share.streamlit.io) → connect the repo → set `app.py` as the entry point.
 
